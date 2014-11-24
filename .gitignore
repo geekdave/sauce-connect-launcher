@@ -9,3 +9,4 @@ sauce_connect.log
 node_modules/
 npm-debug.log
 user.json
+.idea
